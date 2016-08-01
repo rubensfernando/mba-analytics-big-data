@@ -1,0 +1,24 @@
+2016-07-11-introducao-ao-spark
+---
+title: Introdução ao Spark - Spark Core
+date: 2016-07-08
+category: Introdução ao Big Data
+tags: big data, hadoop, spark,yarn 
+---
+
+Racional para Def nisso sizing do hdfs
+
+Suporte da cloudera 30mil
+Cada máquina 70mil
+Linux RedHat 1500
+Rede switch 2 milhões 
+
+Amazon Em
+HD Insight
+
+Perfil de cientista de dados
+Cuidado com profissionais que tem conhecimento em negócios e tecnologia
+
+
+Perfis profissionais para atuar em iniciativas em bug data
+Os
