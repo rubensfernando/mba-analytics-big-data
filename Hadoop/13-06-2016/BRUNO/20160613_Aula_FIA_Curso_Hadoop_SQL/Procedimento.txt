@@ -1,0 +1,1 @@
+Utilizar VM Cloudera-Training-Analyst-5.2d-vmware
