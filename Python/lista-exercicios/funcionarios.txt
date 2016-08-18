@@ -1,0 +1,7 @@
+alexandre,42000
+rose,50000
+anderson,30000
+antonio,60000
+maria,120000
+carlos,86000
+cesar,48000
