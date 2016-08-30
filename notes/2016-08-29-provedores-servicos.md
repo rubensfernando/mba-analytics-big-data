@@ -25,5 +25,27 @@ Distribui trafego entre nos EC2 em uma ou multiplas instancias Zonas de Disponib
  é servico de alocacao/configuracao automatizada de multiplos servicos na nuvem
  o usuario definea ´receita de bolo´ de quais servicos devem ser alocados e como devem ser alocados/configurados
  os recursos agrupados em Stacks
+ 
+ #### s3
+ 
+ - Pedra fundamental dos servciso de armazenamento da AWS
+ - Armazenamento ilimitado de objetos
+ - Longa duração, diferentes níveis de redundância
+ - Segurança: controle de acesso, criptografia
+ - Versionamento
+ - Possui compatibilidade em grande número de serviços da AWS
+ - Principal mecanismo de entrada e saída de serviços
+ - É poivel fazer o gerenciamento do ciclo de vida do objeto
+ - - Quanto tempo manter o arquivo
+ - quando copiar para o bkp
+ - quando apagar o arquivo
+ - 
+ 
+ 
+ ## calculando custo no aws
+ 
+ http://calculator.s3.amazonaws.com/index.html
+ 
+ 
  atualizacao  dos templates sao refletidas em atualizacoes nos recursos
  a montagem dos recursos podem ser feitos atraves de um editor gráfico ou edição 
