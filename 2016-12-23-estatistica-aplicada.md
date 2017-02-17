@@ -100,7 +100,7 @@ O tamanho da população será denotado por N. Ex.: Todos os automóveis de uma 
 A amostra é formada por qualquer parte de uma população.
 O tamanho da amostra será denotado por n. Ex.: Alguns automóveis da cidade / Alguns brasileiros.
 
-## MEDIDAS DE POSIÇÃO
+# MEDIDAS DE POSIÇÃO
 ### Moda
 Moda é a observação mais frequente em um conjunto de observações.
 
@@ -125,40 +125,46 @@ Exemplo: Suponha que um executivo de vendas deseja obter uma análise das vendas
 O analista de dados calculou o primeiro quartil das vendas e obteve o valor : 15 milhões de reais;
 Dessa forma tem-se que como o primeiro quartil é 15 milhões de reais, 25 % das lojas da rede venderam menos do que 15 milhões de reais.
 
-Primeiro quartil ( Q1 ) Percentil 25 % - valor da amostra tal que 25 % das observações são menores do que ele;
+**Primeiro quartil ( Q1 )** Percentil 25 % - valor da amostra tal que 25 % das observações são menores do que ele;
 
-Segundo quartil ( Q2 ) Percentil 50 % - valor da amostra tal que 50 % das observações são menores do que ele. Este quartil também é denominado mediana;
+**Segundo quartil ( Q2 )** Percentil 50 % - valor da amostra tal que 50 % das observações são menores do que ele. Este quartil também é denominado mediana;
 
-Terceiro quartil ( Q3 ) Percentil 75 % - valor da amostra tal que 75 % das observações são menores do que ele;
+**Terceiro quartil ( Q3 )** Percentil 75 % - valor da amostra tal que 75 % das observações são menores do que ele;
 
-Valor Discrepante
+## Valor Discrepante
+
 As observações muito diferentes das demais são denominadas ponto fora da curva ou OUTLIER.
 
-Boxplot
+## Boxplot
 
-MEDIDAS DE DISPERSÃO
 
-Desvio
+# MEDIDAS DE DISPERSÃO
+
+## Desvio
+
 O desvio é a distância de cada observação à média.
 
-Variância Populacional
-
+## Variância Populacional
 
 A variância populacional é a média aritmética dos desvios elevados ao quadrado.
 
-Desvio Padrão Populacional
+##Desvio Padrão Populacional
+
 Como a variância populacional está na unidade ao quadrado, para retornar a unidade original deve-se obter a raiz quadrada da variância populacional.
+
 O desvio padrão populacional é a raiz quadrada da variância populacional.
 
-Variância Amostral
+## Variância Amostral
+
 A variância amostral é obtida por meio da soma dos desvios elevados ao quadrado dividindo-se pelo total de observações menos um.
 
-Desvio Padrão Amostral
+## Desvio Padrão Amostral
+
 Como a variância amostral está na unidade ao quadrado, para retornar a unidade original deve-se obter a raiz quadrada da variância amostral.
 O desvio padrão amostral é a raiz quadrada da variância amostral.
 
 
-Coeficiente de Variação
+## Coeficiente de Variação
 O Coeficiente de Variação é uma medida de dispersão relativa usada na comparação da variabilidade para dados que diferem no valor médio.
 
 O Coeficiente de Variação é obtido por meio da divisão do desvio padrão pela média multiplicando-se por 100.
