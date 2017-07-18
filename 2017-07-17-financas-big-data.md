@@ -1,6 +1,6 @@
 asset manangement- controle de ativos
 
-incerteza de hazen
+princípio da incerteza de Heisenberg 
 
 prtocolo fix -> comunicacao entre bolsa e corretoras
 
