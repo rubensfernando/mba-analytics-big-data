@@ -13,3 +13,11 @@ Nowcasting
 curva de juros
 nelson siegel
 
+
+===
+
+Financas e a arte e a ciencia de gestao de ativos financeiros 
+
+Financas sao a aplicacao de serie de principios economicos e financeiros para...
+
+
