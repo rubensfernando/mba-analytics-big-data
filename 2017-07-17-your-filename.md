@@ -35,5 +35,7 @@ corretor de seguro e ter contato com as seguradoras e mostrar as melhores opcoes
 
 previdencia complementar abera e tipo im plano de aposentadori, poupanca ou pensao. funciona a parte do regime geralde previdencia e aceita participacao do publico em geral
 
+Contratos de capitalizacao sao os acordos em que o contrante deposita valores podendo recebe-los de volta com juros e concorrer  a premios
+
 
 
