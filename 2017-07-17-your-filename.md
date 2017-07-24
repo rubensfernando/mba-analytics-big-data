@@ -1,6 +1,6 @@
 asset manangement- controle de ativos
 
-princípio da incerteza de Heisenberg 
+princÃ­pio da incerteza de Heisenberg 
 
 protocolo fix -> comunicacao entre bolsa e corretoras
 raptor
@@ -38,4 +38,20 @@ previdencia complementar abera e tipo im plano de aposentadori, poupanca ou pens
 Contratos de capitalizacao sao os acordos em que o contrante deposita valores podendo recebe-los de volta com juros e concorrer  a premios
 
 
+----
+
+
+
+## Conceitos de utilidades
+
+A utilidade mede o grau de satisfação ou felicidade de um indivíduo. Trata-se de uma função chamada de função utilidade. A função utilidade não é igual para todos.
+
+> = Preferencias
+
+P = d > b > a > c
+
+As hiposite devem respeitas os seguintes itens
+
+- Comparabilidade A > B, A < B, a ~ b
+(mais preferivel que, menos preferivel e indiferente
 
