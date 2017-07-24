@@ -44,7 +44,7 @@ Contratos de capitalizacao sao os acordos em que o contrante deposita valores po
 
 ## Conceitos de utilidades
 
-A utilidade mede o grau de satisfação ou felicidade de um indivíduo. Trata-se de uma função chamada de função utilidade. A função utilidade não é igual para todos.
+A utilidade mede o grau de satisfação ou felicidade de um indivíduo. Trata-se de uma função chamada de função utilidade. A função utilidade não é igual para todos, é individual.
 
 > = Preferencias
 
@@ -54,4 +54,27 @@ As hiposite devem respeitas os seguintes itens
 
 - Comparabilidade A > B, A < B, a ~ b
 (mais preferivel que, menos preferivel e indiferente
+
+- Transitividade
+
+- Continuidade
+
+- Independência
+
+- Não saciação
+
+A função de utilidade sempre não é decresente
+
+Deve aumentar á medida que a riqueza cresce
+
+Mapeia elementos de conjunto em unidades de satisfação
+
+Esse são cos conceitos de utilidade estão num contexto deterministico.
+
+Mas sob a condição de de incerteza a riqueza (W) é uma variável aleatória, e portanto U(W) é uma variável aleatória.
+
+´´´´
+E[U(W)]
+
+´´´´
 
