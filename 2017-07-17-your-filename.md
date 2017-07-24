@@ -78,3 +78,14 @@ E[U(W)]
 
 ´´´´
 
+Equivalente certo é um valor que satifaz o indivíduo sem a necessidade de passar por situação de incerteza
+
+Seja uma variável aleatória W, o indivíduo pode
+- não ganhar nada (w1 = 0) com probabilidade p1 = 98%;
+- ganhar w2 = R$ 100,00 com probabilidade de p2 = 1,99%; ou
+- ganhar w3 = R$ 10.000,00 com probabilidade de p3 = 0,01%. 
+
+Considerando que a função utilidade é dada por U(w) = w1/2, calcule o equivalente certo.
+
+Resposta: Como E[U(W)] = 0,209, temos que E[U(W)] = U(x) = x<sup>1/2</sup>. 
+Assim, 0,209 = x<sup>1/2</sup> x = 0,043681  R$ 0,04.
