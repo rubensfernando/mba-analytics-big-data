@@ -89,3 +89,29 @@ Considerando que a função utilidade é dada por U(w) = w1/2, calcule o equival
 
 Resposta: Como E[U(W)] = 0,209, temos que E[U(W)] = U(x) = x<sup>1/2</sup>. 
 Assim, 0,209 = x<sup>1/2</sup> x = 0,043681  R$ 0,04.
+
+
+### Tipos de comportamento
+
+Aversão ao risco: individuo rejeita um jogo justo
+
+X < E[L]
+
+Neutralidade ao risco^individuo é indiferente entre entrar ou não entrar no jogo justo
+
+X = E[L]
+
+Propenção ao risco: individuo prefere o jogo justo
+
+x > E[L]
+
+
+### Medidas Arrow-Pratt:
+
+#### Coeficiente de aversão ao risco absoluto
+A(W) > 0 Indica aversão absoluta ao risco
+A(W) = 0 Indica neutralidade absoluta ao risco
+indica propensão ao risco
+
+
+Coeficiente de aversão ao risco relativo
