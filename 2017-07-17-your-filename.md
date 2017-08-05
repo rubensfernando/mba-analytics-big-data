@@ -115,3 +115,17 @@ indica propensão ao risco
 
 
 Coeficiente de aversão ao risco relativo
+
+---
+
+# Teoria de Carteiras
+
+## Ativo livre de risco
+
+- É aquele que possio retorno esperado sem risco ou incerteza; 
+- É Represetado por apenas um retorno esperado, como a taxa de juros
+- O atibo de risco mais utilizado no Brasil é o CDI baseado na Taxa Selic (calculada pelo BC)
+- O titulo do governo é a LFT
+
+
+
