@@ -127,5 +127,28 @@ Coeficiente de aversão ao risco relativo
 - O atibo de risco mais utilizado no Brasil é o CDI baseado na Taxa Selic (calculada pelo BC)
 - O titulo do governo é a LFT
 
-
 Pesquisar sobre [DSGE](https://pt.wikipedia.org/wiki/DSGE)
+
+### Capital Market Line (CML)
+
+Quando a reta (CML) encontra a fronteira é chamada de Carteira de Mercado]
+
+achar uma carteira ótima consiste em achar a carteira de mercado e combinar com o ativo de risco 
+
+Cada  ponto na CML represenra uma carteira eficiente com o ativo livre de risco
+
+
+Modelos de alocação
+
+Media varianacia - Teoria de Markowitz, 1952]
+
+Reamostragem - (Richard Michaud)
+
+Robustas
+
+Modelo Black–Litterman (Cenarios futuros de várias pessoas)
+
+
+Bayerisanos
+
+Risk parity and risk budget
