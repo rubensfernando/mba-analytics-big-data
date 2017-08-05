@@ -128,4 +128,4 @@ Coeficiente de aversão ao risco relativo
 - O titulo do governo é a LFT
 
 
-
+Pesquisar sobre [DSGE](https://pt.wikipedia.org/wiki/DSGE)
